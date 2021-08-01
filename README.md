@@ -1,5 +1,7 @@
 # Optimizing Household Electricity through Data Science
  Optimizing Electricity consumption through Machine Learning to save electricity as well as reduce the electricity bill
+ 
+Electra.AI is a simple dashboard developed using Dash and Plotly. It helps the consumer monitor their electricity consumption on a daily basis. Electra.AI also does a forecasting of the electricity, thus helping the consumer an estimation of his/her electricity bill. It can also send early warnings and automated emails with report to the user regarding excessive electricity consumption or when it detects a faulty device at home.
 
 ## Main Dashboard Features:
 

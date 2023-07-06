@@ -3,6 +3,9 @@
  
 Electra.AI is a simple dashboard developed using Dash and Plotly. It helps the consumer monitor their electricity consumption on a daily basis. Electra.AI also does a forecasting of the electricity, thus helping the consumer an estimation of his/her electricity bill. It can also send early warnings and automated emails with report to the user regarding excessive electricity consumption or when it detects a faulty device at home.
 
+![Screenshot from 2023-07-07 00-46-57](https://github.com/debadridtt/Optimizing-Household-Electricity-through-Machine-Learning/assets/24243687/2e1c553e-44a3-4926-a645-3f42be1fee40)
+
+
 ## Main Dashboard Features:
 
 <img src ="https://user-images.githubusercontent.com/24243687/127759203-45f5e572-a46c-42a9-a3f3-88c8c8aedc19.PNG" width="800" height="400">
